@@ -1,2 +1,8 @@
 # XcodeTemplates
-Just Xcode templates that I usually use in my projects
+
+To install just run in terminal:
+```shell
+git clone git@github.com:SiarheiFedartsou/XcodeTemplates.git
+cd XcodeTemplates
+./install.sh
+```
